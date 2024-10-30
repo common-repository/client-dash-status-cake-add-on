@@ -1,0 +1,39 @@
+.cdsc .cd-col-two {
+	width: 40%;
+	margin-right: -4px;
+	border: 1px solid #ccc;
+	padding: 18px;
+	margin: 8px;
+	vertical-align: top;
+}
+.cdsc-status, .cdsc-uptime {
+	text-align: center;
+}
+.cdsc-status span, .cdsc-uptime span {
+	font-size: 5em;
+	color: #fff;
+}
+.cdsc-status div, .cdsc-uptime div {
+	padding: 20px;
+	background-color: gray;
+	min-height: 80px;
+}
+.cdsc .dashicons {
+	display: inline;
+}
+/* Colors */
+.cdsc .cdsc-ninety {
+	background-color: #267213;
+}
+.cdsc .cdsc-eighty {
+	background-color: #6B942F;
+}
+.cdsc .cdsc-seventy {
+	background-color: #A9B83C;
+}
+.cdsc .cdsc-sixty {
+	background-color: #DAB130;
+}
+.cdsc .cdsc-fifty {
+	background-color: #DA4B30;
+}
